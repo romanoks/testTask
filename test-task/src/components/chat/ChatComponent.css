@@ -25,7 +25,7 @@
     }
 }
 
-@media (max-width: 3000px) {
+@media (max-width: 3000px) and (min-width: 1601px) {
     .card-position {
         float: right;
         width: 35%;
